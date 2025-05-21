@@ -11,7 +11,7 @@ Ez egy egyszerű, mégis menő pixelgrafikus rajzprogram C nyelven, SDL2-vel. A 
   - `E`: radír mód (fehér színnel fest)
 
 
-## 🧰 Követelmények
+##  Követelmények
 
 - C fordító (pl. `gcc`)
 - [SDL2](https://libsdl.org)
